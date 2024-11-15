@@ -1,16 +1,19 @@
-## Hi there 👋
+Hello and welcome to my profile! 
 
-<!--
-**Garrett-M-Johnston/Garrett-M-Johnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Garrett Johnston, a tech enthusiast with a growing passion for cybersecurity and continuous learning. I'm building my skills and knowledge to create impactful solutions and explore the ever-evolving world of technology.
 
-Here are some ideas to get you started:
+What I’m Working On
+🌱 Learning: Exploring tools, techniques, and best practices in cybersecurity and programming.
+🛠 Building: Working on projects to strengthen my technical abilities and expand my portfolio.
+🔍 Exploring: Constantly looking for opportunities to grow and collaborate with others in the tech community.
+Beyond Tech
+When I’m not coding or learning, I enjoy focusing on personal development, fitness, and spending time with my cats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+
+
+
+
